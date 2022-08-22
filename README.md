@@ -1,5 +1,8 @@
-# 联系我
-Sakuraguoli@foxmail.com  
+# 关于我
+~~事一名无名小辈~~  
+目的是分享日常  
+联系我  
+[bilibili](https://space.bilibili.com/366439172?spm_id_from=333.788.0.0)  
+邮箱Sakuraguoli@Foxmail.com  
 QQ群534847446  
-[bilibili](https://space.bilibili.com/366439172?spm_id_from=333.1007.0.0)   
-[跳转>>](guide.md)
+我的[下载站](https://download.sakuragl.ml/)

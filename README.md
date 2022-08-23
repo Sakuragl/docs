@@ -6,3 +6,6 @@
 邮箱Sakuraguoli@Foxmail.com  
 QQ群534847446  
 我的[下载站](https://download.sakuragl.ml/)
+
+**我写的东西**
+[一加7T刷机教程](/准备工作.md)
